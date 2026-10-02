@@ -4,3 +4,4 @@ Flask-SQLAlchemy
 Flask-WTF
 Werkzeug
 python-dotenv
+Gunicorn
