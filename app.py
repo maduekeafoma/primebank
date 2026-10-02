@@ -201,9 +201,9 @@ def bank():
     """Display the authenticated user's bank dashboard."""
     return render_template("bank.html", user=current_user)
 
-@app.route("/about")
-def about():
-    return render_template("about.html")
+# @app.route("/about")
+# def about():
+#     return render_template("about.html")
 
 @app.route("/logout")
 @login_required
