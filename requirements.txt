@@ -5,3 +5,4 @@ Flask-WTF
 Werkzeug
 python-dotenv
 Gunicorn
+psycopg
